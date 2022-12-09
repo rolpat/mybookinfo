@@ -6,3 +6,9 @@ Here, a subset of the manifests is taken as an example for a minimal Gitops setu
 
 
 
+
+
+
+
+
+
